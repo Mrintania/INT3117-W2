@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week_2</string>
+    <string-array name="color">
+        <item name="red">Red</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+        <item name="grey">Grey</item>
+    </string-array>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+</resources>
